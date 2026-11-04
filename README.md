@@ -37,8 +37,7 @@ A trusted, **100% free** platform (no money involved at any point) that:
 - Lets users **borrow** equipment for an hour, a day, a week, or a month.
 - Lets users **donate** equipment so it keeps circulating in the community.
 - **Verifies identities** and inspects equipment at handover to reduce fraud and fear of loss.
-- Uses **verified local NGOs and community hubs** as inspection and pick-up/drop-off points.
-- Offers a simple, **bilingual (Arabic/English)** interface designed for elderly users and caregivers.
+- Offers a simple, **bilingual (English)** interface designed for elderly users and caregivers.
 
 ---
 
@@ -47,7 +46,6 @@ A trusted, **100% free** platform (no money involved at any point) that:
 - **Promote sustainability and reuse:** recirculate functional assistive technology within local communities.
 - **Build a trustworthy handover ecosystem:** verified identity badges, handover inspection, and digital agreements to prevent fraud and fear of loss.
 - **Streamline community logistics:** partner with verified local NGOs and community hubs as inspection and pick-up/drop-off points.
-- **Deliver an accessible UI/UX:** bilingual Arabic/English, WCAG-compliant, and inclusive of elderly users and caregivers.
 
 ---
 
@@ -60,7 +58,7 @@ A trusted, **100% free** platform (no money involved at any point) that:
 
 **Out of scope:** payments, fees, or deposits; selling or renting; medical advice; delivery services; equipment repair.
 
-> **Final Deliverable:** A complete bilingual (Arabic/English) UI/UX design with an interactive prototype of the borrow, donate, verify, and handover flows, plus project documentation.
+> **Final Deliverable:** A complete bilingual (English) UI/UX design with an interactive prototype of the borrow, donate, verify, and handover flows, plus project documentation.
 
 ---
 
