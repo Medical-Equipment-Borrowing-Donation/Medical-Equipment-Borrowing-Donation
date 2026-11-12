@@ -88,19 +88,17 @@ Every donation goes under admin review before it is published. After a bad revie
 ### 1. Competitor Analysis
 Review of existing ways people get medical equipment (social media groups, hospitals, equipment shops, other donation platforms), comparing what they offer and where they fall short.
 
-- 📄 **PDF:** [Competitor Analysis]()
+- 📄 **PDF:** [Competitor Analysis](competitors-analysis.pdf)
 
 ### 2. Survey
 A survey of people who needed medical equipment and people who own unused equipment, to understand their needs, difficulties, and what would make them trust a donation website.
 
-- 📄 **PDF:** [Survey Results](docs/survey.pdf)
-- 🔗 **Survey link:** [PASTE-LINK-HERE](PASTE-LINK-HERE)
+- 🔗 **Survey link:** [PASTE-LINK-HERE](https://forms.gle/EwJ1CaF61a8VD4WJ8)
 
 ### 3. Personas
-User personas built from the research: **Requester**, **Donor**, and **Admin**, each with goals, frustrations, and needs from the platform.
+User personas built from the research: **Requester** and **Donor**, each with goals, frustrations, and needs from the platform.
 
 - 📄 **PDF:** [User Personas](docs/personas.pdf)
-- 🔗 **Link:** [PASTE-LINK-HERE](PASTE-LINK-HERE)
 
 ### 4. Design & Prototype
 Information architecture, site map, user flows, wireframes (low, mid, and high fidelity), design system, and the interactive prototype.
