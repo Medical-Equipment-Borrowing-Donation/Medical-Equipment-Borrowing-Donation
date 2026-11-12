@@ -98,7 +98,7 @@ A survey of people who needed medical equipment and people who own unused equipm
 ### 3. Personas
 User personas built from the research: **Requester** and **Donor**, each with goals, frustrations, and needs from the platform.
 
-- 📄 **PDF:** [User Personas](docs/personas.pdf)
+- 📄 **PDF:** [User Personas](Donor-Receiver-PESRSONA.pdf)
 
 ### 4. Design & Prototype
 Information architecture, site map, user flows, wireframes (low, mid, and high fidelity), design system, and the interactive prototype.
