@@ -1,5 +1,5 @@
 # [Project Name]
-### _A free community platform for borrowing and donating medical equipment_
+### _A free platform for donating and borrowing medical equipment_
 
 ---
 
@@ -19,66 +19,88 @@
 ---
 
 ## Project Overview
-This project is a **100% free platform, with no money involved at any point**, where users can borrow medical equipment temporarily (for an hour, a day, a week, or a month) or donate it so it stays in use in the community. Trust is built in through verified users, handover inspection at partner NGOs and community hubs, and digital agreements. The platform is bilingual (Arabic/English) and designed for elderly users and caregivers. The project will be presented as a complete UI/UX design: research, wireframes, and an interactive prototype.
+This project is a **free platform** where people can donate medical equipment and others can borrow it for a limited period. It helps families who cannot afford expensive devices get what they need quickly, and keeps working equipment in use instead of sitting unused at home. The project is presented as a complete UI/UX design: research, wireframes, and an interactive prototype.
 
 ---
 
 ## Project Problem & Solution
 
 ### The Problem
-- Medical equipment such as wheelchairs, crutches, walkers, and hospital beds is expensive, and most people only need it for a short recovery period after surgery, injury, or illness.
-- Families pay out of pocket for devices they use for a few weeks, then the devices sit unused at home.
-- People who want to lend or donate equipment have no safe, organized way to do it.
-- Fear of fraud, damage, or never getting the item back stops people from lending.
-- Existing options (social media groups, word of mouth) are unreliable and not designed for elderly users or caregivers.
+- Medical equipment is expensive, and most people need it only for a limited period.
+- Working equipment sits unused in other homes.
+- There is no organized, trusted way to donate or lend it.
 
 ### The Solution
-A trusted, **100% free** platform (no money involved at any point) that:
-- Lets users **borrow** equipment for an hour, a day, a week, or a month.
-- Lets users **donate** equipment so it keeps circulating in the community.
-- **Verifies identities** and inspects equipment at handover to reduce fraud and fear of loss.
-- Offers a simple, **bilingual (English)** interface designed for elderly users and caregivers.
+A website with three roles:
+- **Donor:** submits an equipment form with key questions, photos, and a video.
+- **Requester:** searches for equipment and borrows it for a limited period.
+- **Admin:** reviews every submission, sends incomplete or poor ones back, and follows up on issues.
+
+Every donation goes under admin review before it is published. After a bad review or a reported problem, the team contacts the donor to confirm the equipment reached the requester.
 
 ---
 
 ## Project Objectives
-- **Democratize access:** cut out-of-pocket costs for people recovering from surgery, injury, or illness by offering free access to medical devices.
-- **Promote sustainability and reuse:** recirculate functional assistive technology within local communities.
-- **Build a trustworthy handover ecosystem:** verified identity badges, handover inspection, and digital agreements to prevent fraud and fear of loss.
-- **Streamline community logistics:** partner with verified local NGOs and community hubs as inspection and pick-up/drop-off points.
+- Give free, fast access to medical equipment for people who cannot afford it.
+- Keep working equipment in use by connecting donors with people who need it.
+- Build trust through admin review, quality checks, and follow-up on problems.
+- Make donating and borrowing simple and clear for every user.
 
 ---
 
 ## Project Scope
-- Free borrowing of equipment for a chosen period (hour, day, week, month) and free donation
-- User registration with identity verification and verified badges
-- Equipment listings with search and filters (type, location, availability)
-- Digital borrowing agreements, return reminders, and status tracking
-- Handover inspection flow through partner NGOs and community hubs
+- Donor, requester, and admin experiences
+- Donation form with photos and video
+- Admin review of submissions
+- Search, request, and borrow flow
+- Reviews and problem reporting
 
-**Out of scope:** payments, fees, or deposits; selling or renting; medical advice; delivery services; equipment repair.
+**Out of scope:** payments or fees, delivery (donor and requester arrange it between themselves for now), medical advice, and building the system.
 
-> **Final Deliverable:** A complete bilingual (English) UI/UX design with an interactive prototype of the borrow, donate, verify, and handover flows, plus project documentation.
+**Future plans:** organizations and hospitals join the platform, and possible delivery support.
+
+> **Final Deliverable:** A complete UI/UX design with an interactive prototype of the donate, borrow, and admin review flows, plus project documentation.
 
 ---
 
 ## Project Plan (5 Weeks)
 
 ### Week 1: Research & Define
-- Define the problem and interview patients, caregivers, and NGOs
+- Define the problem, survey and interview users
 - Competitor analysis, personas, and user stories
 
 ### Week 2: Structure & Flows
 - Feature list and information architecture
-- User flows: borrow, donate, verify, handover
+- Site map and user flows: donate, borrow, admin review
 
 ### Week 3: Wireframes
-- Low-fidelity wireframes for all main screens (Arabic/English)
+- Low-fidelity, mid-fidelity, and high-fidelity wireframes for all main screens
 
 ### Week 4: Visual Design & Prototype
-- Design system and WCAG accessibility checks
-- High-fidelity UI (RTL/LTR) and interactive prototype
+- Design system
+- Interactive prototype
 
 ### Week 5: Test & Deliver
-- Usability testing, including elderly users, and fixes
+- Usability testing and fixes
 - Documentation and final presentation
+## UI/UX Design
+
+### 1. Competitor Analysis
+Review of existing ways people get medical equipment (social media groups, hospitals, equipment shops, other donation platforms), comparing what they offer and where they fall short.
+
+- 📄 **PDF:** [Competitor Analysis]()
+
+### 2. Survey
+A survey of people who needed medical equipment and people who own unused equipment, to understand their needs, difficulties, and what would make them trust a donation website.
+
+- 📄 **PDF:** [Survey Results](docs/survey.pdf)
+- 🔗 **Survey link:** [PASTE-LINK-HERE](PASTE-LINK-HERE)
+
+### 3. Personas
+User personas built from the research: **Requester**, **Donor**, and **Admin**, each with goals, frustrations, and needs from the platform.
+
+- 📄 **PDF:** [User Personas](docs/personas.pdf)
+- 🔗 **Link:** [PASTE-LINK-HERE](PASTE-LINK-HERE)
+
+### 4. Design & Prototype
+Information architecture, site map, user flows, wireframes (low, mid, and high fidelity), design system, and the interactive prototype.
