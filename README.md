@@ -1,89 +1,98 @@
-# [Project Name]
-### _A free platform for donating and borrowing medical equipment_
+# [Project Name] – Medical Equipment Donation & Lending Platform
+
+> A web platform where people donate and borrow medical equipment for free, with admin review to keep every listing safe and trustworthy.
 
 ---
 
-## Team Members
+## 1. Project Idea
+
+### Problem
+Many medical devices (blood pressure monitors, pulse oximeters, home Holter monitors, wheelchairs, nebulizers…) are expensive, and patients often need them urgently or only for a short period. At the same time, many households keep unused devices at home.
+
+### Solution
+A website that connects **donors** (people with spare equipment) with **receivers** (people who need it), at no cost. Equipment can be **donated** permanently or **lent** temporarily.
+
+### How it works
+1. The donor fills in an equipment form (key questions, photos, short video).
+2. The **admin reviews** the submission. Incomplete or poor submissions are sent back for correction.
+3. Approved equipment is listed in the marketplace. A receiver sends a request.
+4. Donor and receiver arrange delivery between themselves.
+5. If a bad review or a problem is reported, the team contacts the donor to confirm the equipment reached the receiver and follows up on the issue.
+
+### User roles
+| Role | What they do |
+|---|---|
+| Donor | Submits equipment, answers requests |
+| Receiver | Searches, requests, borrows or receives equipment |
+| Admin | Reviews submissions, handles reports, manages users |
+
+### Future Plans
+- Hospitals and organizations join the platform
+- Delivery handled by the platform
+- Add to cart and payment method
+
+---
+
+## 2. Team Members
+
 - **Noureen Tarek Gaber**
 - **Rahma Hassanin Elmorsy**
-- **Mamdouh Mohamed Aboelmagd**
-- **Omar Ahmed Awad**
 - **Aya Reda Ahmed**
 - **Marwa Sabry Mohamed**
+- **Mamdouh Mohamed Aboelmagd**
+- **Omar Ahmed Awad**
 
 ---
 
-## Instructor
-**Dr. Eman Abdellatif**
+## 3. Instructor
+
+**Supervisor:** Dr. Eman Abdellatif
 
 ---
 
-## Project Overview
-This project is a **free platform** where people can donate medical equipment and others can borrow it for a limited period. It helps families who cannot afford expensive devices get what they need quickly, and keeps working equipment in use instead of sitting unused at home. The project is presented as a complete UI/UX design: research, wireframes, and an interactive prototype.
+## 4. Work Plan (UI/UX Design Process)
+
+| Phase | Tasks | Deliverable |
+|---|---|---|
+| 1. Research | Competitor analysis, user survey | Competitors analysis, survey results |
+| 2. Define | Donor and receiver personas, problem and needs definition | Personas |
+| 3. Structure | User flows, site map, information architecture | User flows, site map, IA |
+| 4. Wireframing | Low-fidelity wireframes for all pages | Wireframes |
+| 5. UI Design | Visual identity, high-fidelity screens, components | Figma design |
+| 6. Prototype & Test | Clickable prototype, usability testing, revisions | Prototype, test notes |
+| 7. Delivery | Final files, documentation, presentation | Final submission |
 
 ---
 
-## Project Problem & Solution
+## 5. Roles & Responsibilities
 
-### The Problem
-- Medical equipment is expensive, and most people need it only for a limited period.
-- Working equipment sits unused in other homes.
-- There is no organized, trusted way to donate or lend it.
-
-### The Solution
-A website with three roles:
-- **Donor:** submits an equipment form with key questions, photos, and a video.
-- **Requester:** searches for equipment and borrows it for a limited period.
-- **Admin:** reviews every submission, sends incomplete or poor ones back, and follows up on issues.
-
-Every donation goes under admin review before it is published. After a bad review or a reported problem, the team contacts the donor to confirm the equipment reached the requester.
+| Member | Responsibilities |
+|---|---|
+| **Noureen** | Survey, donor persona, donor user flow, donor and receiver dashboard, About Us page |
+| **Rahma** | Survey, donor persona, donor IA, Donate / Add Listing flow, donor and receiver forms |
+| **Mamdouh** | Survey, receiver persona, site map and IA, homepage, sign in and sign up pages |
+| **Aya** | Survey, donor persona, receiver IA, Trust page, sign in page, FAQ page |
+| **Marwa** | Survey, receiver persona, receiver user flow, marketplace page, contact us page |
+| **Omar** | Survey, community page |
 
 ---
 
-## Project Objectives
-- Give free, fast access to medical equipment for people who cannot afford it.
-- Keep working equipment in use by connecting donors with people who need it.
-- Build trust through admin review, quality checks, and follow-up on problems.
-- Make donating and borrowing simple and clear for every user.
+## 6. KPIs
+
+| KPI | Target |
+|---|---|
+| Survey responses collected | ≥ 50 |
+| Usability test task completion rate (donate, request, sign up) | ≥ 90% |
+| Time to complete the Add Listing flow | < 5 minutes |
+| Clicks from homepage to send a request | ≤ 4 |
+| User satisfaction (usability test) | ≥ 4 / 5 |
+| Screens designed vs. planned pages | 100% |
+| Design consistency (components and styles reused across pages) | 100% |
+| Accessibility (text contrast, WCAG AA) | Pass |
 
 ---
 
-## Project Scope
-- Donor, requester, and admin experiences
-- Donation form with photos and video
-- Admin review of submissions
-- Search, request, and borrow flow
-- Reviews and problem reporting
-
-**Out of scope:** payments or fees, delivery (donor and requester arrange it between themselves for now), medical advice, and building the system.
-
-**Future plans:** organizations and hospitals join the platform, and possible delivery support.
-
-> **Final Deliverable:** A complete UI/UX design with an interactive prototype of the donate, borrow, and admin review flows, plus project documentation.
-
----
-
-## Project Plan (5 Weeks)
-
-### Week 1: Research & Define
-- Define the problem, survey and interview users
-- Competitor analysis, personas, and user stories
-
-### Week 2: Structure & Flows
-- Feature list and information architecture
-- Site map and user flows: donate, borrow, admin review
-
-### Week 3: Wireframes
-- Low-fidelity, mid-fidelity, and high-fidelity wireframes for all main screens
-
-### Week 4: Visual Design & Prototype
-- Design system
-- Interactive prototype
-
-### Week 5: Test & Deliver
-- Usability testing and fixes
-- Documentation and final presentation
-## UI/UX Design
+## 7. Project Files
 
 ### 1. Competitor Analysis
 Review of existing ways people get medical equipment (social media groups, hospitals, equipment shops, other donation platforms), comparing what they offer and where they fall short.
@@ -93,12 +102,16 @@ Review of existing ways people get medical equipment (social media groups, hospi
 ### 2. Survey
 A survey of people who needed medical equipment and people who own unused equipment, to understand their needs, difficulties, and what would make them trust a donation website.
 
-- 🔗 **Survey link:** [PASTE-LINK-HERE](https://forms.gle/EwJ1CaF61a8VD4WJ8)
+- 🔗 **Survey link:** [Survey](https://forms.gle/EwJ1CaF61a8VD4WJ8)
 
 ### 3. Personas
-User personas built from the research: **Requester** and **Donor**, each with goals, frustrations, and needs from the platform.
+User personas built from the research: **Receiver** and **Donor**, each with goals, frustrations, and needs from the platform.
 
 - 📄 **PDF:** [User Personas](Donor-Receiver-PESRSONA.pdf)
 
 ### 4. Design & Prototype
 Information architecture, site map, user flows, wireframes (low, mid, and high fidelity), design system, and the interactive prototype.
+
+- 🔗 **Figma:** [Figma Design]()
+
+---
