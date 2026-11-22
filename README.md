@@ -69,9 +69,9 @@ A website that connects **donors** (people with spare equipment) with **receiver
 | Member | Responsibilities |
 |---|---|
 | **Noureen** | Survey, donor persona, donor user flow, donor and receiver dashboard, About Us page |
-| **Rahma** | Survey, donor persona, donor IA, Donate / Add Listing flow, donor and receiver forms |
-| **Mamdouh** | Survey, receiver persona, site map and IA, homepage, sign in and sign up pages |
-| **Aya** | Survey, donor persona, receiver IA, Trust page, sign in page, FAQ page |
+| **Rahma** | Survey, donor persona, donor IA, Donaation From page, Borrowing form page |
+| **Mamdouh** | Survey, receiver persona, site map and IA, homepage, sign in, sign up pages |
+| **Aya** | Survey, donor persona, receiver IA, Trust and sign in page, FAQ page |
 | **Marwa** | Survey, receiver persona, receiver user flow, marketplace page, contact us page |
 | **Omar** | Survey, community page |
 
