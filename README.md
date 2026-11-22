@@ -59,7 +59,7 @@ A website that connects **donors** (people with spare equipment) with **receiver
 | 3. Structure | User flows, site map, information architecture | User flows, site map, IA |
 | 4. Wireframing | Low-fidelity wireframes for all pages | Wireframes |
 | 5. UI Design | Visual identity, high-fidelity screens, components | Figma design |
-| 6. Prototype & Test | Clickable prototype, usability testing, revisions | Prototype, test notes |
+| 6. Prototype & Test | Clickable prototype, revisions | Prototype, test notes |
 | 7. Delivery | Final files, documentation, presentation | Final submission |
 
 ---
