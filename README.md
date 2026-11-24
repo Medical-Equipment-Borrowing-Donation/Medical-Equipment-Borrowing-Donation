@@ -73,7 +73,7 @@ A website that connects **donors** (people with spare equipment) with **receiver
 | **Mamdouh** | Survey, receiver persona, site map and IA, homepage, sign in, sign up pages |
 | **Aya** | Survey, donor persona, receiver IA, Trust and sign in page, FAQ page |
 | **Marwa** | Survey, receiver persona, receiver user flow, marketplace page, contact us page |
-| **Omar** | Survey, community page |
+| **Omar** | Survey, receiver persona, community page |
 
 ---
 
