@@ -1,4 +1,4 @@
-# [Project Name] – Medical Equipment Donation & Lending Platform
+# [Medically] – Medical Equipment Donation & Lending Platform
 
 > A web platform where people donate and borrow medical equipment for free, with admin review to keep every listing safe and trustworthy.
 
@@ -68,11 +68,11 @@ A website that connects **donors** (people with spare equipment) with **receiver
 
 | Member | Responsibilities |
 |---|---|
-| **Noureen** | Survey, donor persona, donor user flow, donor and receiver dashboard, About Us page |
-| **Rahma** | Survey, donor persona, donor IA, Donation From page, Borrowing form page |
-| **Mamdouh** | Survey, receiver persona, site map and IA, homepage, sign in, sign up pages |
-| **Aya** | Survey, donor persona, receiver IA, Trust and sign in page, FAQ page |
-| **Marwa** | Survey, receiver persona, receiver user flow, marketplace page, contact us page |
+| **Noureen** | Survey, donor persona, donor user flow, low / mid / high fidelity, donor and receiver dashboard, About Us page, Mobile App |
+| **Rahma** | Survey, donor persona, donor IA, low / mid / high fidelity, Donation From page, Borrowing form page, Mobile App |
+| **Mamdouh** | Survey, receiver persona, site map and IA, low / mid / high fidelity, homepage, sign in, sign up pages, Mobile app |
+| **Aya** | Survey, donor persona, receiver IA, low / mid / high fidelity, Trust and sign in page, FAQ page, Mobile app |
+| **Marwa** | Survey, receiver persona, receiver user flow, low / mid / high fidelity, marketplace page, contact us page, Mobile app |
 | **Omar** | Survey, receiver persona, community page |
 
 ---
